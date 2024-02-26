@@ -1,0 +1,144 @@
+c:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\ChatBotRechealDemo.exe.config
+c:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\ChatBotRechealDemo.exe
+c:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\ChatBotRechealDemo.pdb
+c:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\ChatBotRechealDemo.xml
+c:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.vbprojResolveAssemblyReference.cache
+c:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmMain.resources
+c:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.Resources.resources
+c:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.vbproj.GenerateResource.Cache
+c:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.exe
+c:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.xml
+c:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.pdb
+c:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Interop.WMPLib.dll
+c:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\AxInterop.WMPLib.dll
+c:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.vbproj.ResolveComReference.cache
+c:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmVideo.resources
+c:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Interop.WMPLib.dll
+c:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\רונן בלומברג\documents\visual studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmAbout.resources
+C:\Users\רונן בלומברג\documents\visual studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmLogin.resources
+C:\Users\רונן בלומברג\documents\visual studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\ChatBotRechealDemo.exe.manifest
+C:\Users\רונן בלומברג\documents\visual studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\ChatBotRechealDemo.application
+C:\Users\רונן בלומברג\documents\visual studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.exe.manifest
+C:\Users\רונן בלומברג\documents\visual studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.application
+C:\Users\רונן בלומברג\documents\visual studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.vbproj.CoreCompileInputs.cache
+C:\Users\רונן בלומברג\Documents\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmInstructions.resources
+C:\Users\רונן בלומברג\documents\visual studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmOpening.resources
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Interop.WMPLib.dll
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\AxInterop.WMPLib.dll
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Interop.WMPLib.dll
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\AxInterop.WMPLib.dll
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.vbproj.ResolveComReference.cache
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmAbout.resources
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmInstructions.resources
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmMain.resources
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmOpening.resources
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmVideo.resources
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.Resources.resources
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.vbproj.GenerateResource.Cache
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.exe.config
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.exe.manifest
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.application
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.exe
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.pdb
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.xml
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Chat Bot Rechael v.1.exe.manifest
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Chat Bot Rechael v.1.application
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Chat Bot Rechael v.1.exe
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Chat Bot Rechael v.1.xml
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Chat Bot Rechael v.1.pdb
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\04 River of Crystals.mp3
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\12 Follow Me.mp3
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Frank Sinatra - One For My Baby (Live At Royal Festival Hall  1962).mp3
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Her OST - 06. Some Other Place.mp3
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Her OST - 13. Dimensions.mp3
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Her OST - Song On The Beach.mp3
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Karen O - The Moon Song.mp3
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Love Theme from Blade Runner [Music from Blade Runner].mp3
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\M05 II - Ghost City.mp3
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\M07 Nightstalker.mp3
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\M08 Floating Museum.mp3
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Memories of Green [Music from Blade Runner].mp3
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Scarlett Johansson  Joaquin Phoenix - The Moon Song (Her - OST).mp3
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.vbprojAssemblyReference.cache
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\historyAndReadMe\ReadMe.txt
+D:\מסמכים\Visual Studio 2017\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.vbproj.CoreCompileInputs.cache
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\04 River of Crystals.mp3
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\12 Follow Me.mp3
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Frank Sinatra - One For My Baby (Live At Royal Festival Hall  1962).mp3
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Her OST - 06. Some Other Place.mp3
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Her OST - 13. Dimensions.mp3
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Her OST - Song On The Beach.mp3
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Karen O - The Moon Song.mp3
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Love Theme from Blade Runner [Music from Blade Runner].mp3
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\M05 II - Ghost City.mp3
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\M07 Nightstalker.mp3
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\M08 Floating Museum.mp3
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Memories of Green [Music from Blade Runner].mp3
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\historyAndReadMe\ReadMe.txt
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Scarlett Johansson  Joaquin Phoenix - The Moon Song (Her - OST).mp3
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.exe.config
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.exe.manifest
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.application
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.exe
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.pdb
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.xml
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Interop.WMPLib.dll
+E:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\AxInterop.WMPLib.dll
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.vbproj.AssemblyReference.cache
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.vbproj.SuggestedBindingRedirects.cache
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Interop.WMPLib.dll
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\AxInterop.WMPLib.dll
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.vbproj.ResolveComReference.cache
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmAbout.resources
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmInstructions.resources
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmMain.resources
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmOpening.resources
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmVideo.resources
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.Resources.resources
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.vbproj.GenerateResource.cache
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.vbproj.CoreCompileInputs.cache
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Chat Bot Rechael v.1.exe.manifest
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Chat Bot Rechael v.1.application
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Chat Bot Rechael v.1.exe
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Chat Bot Rechael v.1.xml
+E:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Chat Bot Rechael v.1.pdb
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\04 River of Crystals.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\12 Follow Me.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Frank Sinatra - One For My Baby (Live At Royal Festival Hall  1962).mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Her OST - 06. Some Other Place.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Her OST - 13. Dimensions.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Her OST - Song On The Beach.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Karen O - The Moon Song.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Love Theme from Blade Runner [Music from Blade Runner].mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\M05 II - Ghost City.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\M07 Nightstalker.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\M08 Floating Museum.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Memories of Green [Music from Blade Runner].mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\historyAndReadMe\ReadMe.txt
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Resources\Scarlett Johansson  Joaquin Phoenix - The Moon Song (Her - OST).mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.exe.config
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.exe.manifest
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.application
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.exe
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.pdb
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Chat Bot Rechael v.1.xml
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\Interop.WMPLib.dll
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\Debug\AxInterop.WMPLib.dll
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.vbproj.AssemblyReference.cache
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Interop.WMPLib.dll
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\AxInterop.WMPLib.dll
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.vbproj.ResolveComReference.cache
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmAbout.resources
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmInstructions.resources
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmMain.resources
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmOpening.resources
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.frmVideo.resources
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.Resources.resources
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.vbproj.GenerateResource.cache
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\ChatBotRechealDemo.vbproj.CoreCompileInputs.cache
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Chat Bot Rechael v.1.exe.manifest
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Chat Bot Rechael v.1.application
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Chat Bot Rechael v.1.exe
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Chat Bot Rechael v.1.xml
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\Debug\Chat Bot Rechael v.1.pdb

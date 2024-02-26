@@ -1,0 +1,68 @@
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\04 River of Crystals.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\12 Follow Me.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\Frank Sinatra - One For My Baby (Live At Royal Festival Hall  1962).mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\Her OST - 06. Some Other Place.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\Her OST - 13. Dimensions.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\Her OST - Song On The Beach.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\Karen O - The Moon Song.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\Love Theme from Blade Runner [Music from Blade Runner].mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\M05 II - Ghost City.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\M07 Nightstalker.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\M08 Floating Museum.mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\Memories of Green [Music from Blade Runner].mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\historyAndReadMe\ReadMe.txt
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\Scarlett Johansson  Joaquin Phoenix - The Moon Song (Her - OST).mp3
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Chat Bot Rechael v.1.exe.config
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Chat Bot Rechael v.1.exe.manifest
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Chat Bot Rechael v.1.application
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Chat Bot Rechael v.1.exe
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Chat Bot Rechael v.1.pdb
+G:\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Chat Bot Rechael v.1.xml
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\ChatBotRechealDemo.vbproj.AssemblyReference.cache
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\ChatBotRechealDemo.frmAbout.resources
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\ChatBotRechealDemo.frmInstructions.resources
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\ChatBotRechealDemo.frmMain.resources
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\ChatBotRechealDemo.frmOpening.resources
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\ChatBotRechealDemo.frmVideo.resources
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\ChatBotRechealDemo.Resources.resources
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\ChatBotRechealDemo.vbproj.GenerateResource.cache
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\ChatBotRechealDemo.vbproj.CoreCompileInputs.cache
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\Chat Bot Rechael v.1.exe.manifest
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\Chat Bot Rechael v.1.application
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\Chat Bot Rechael v.1.exe
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\Chat Bot Rechael v.1.xml
+G:\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\Chat Bot Rechael v.1.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\Chat Bot Rechael v.1.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\Chat Bot Rechael v.1.xml
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\Chat Bot Rechael v.1.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Chat Bot Rechael v.1.exe.config
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\04 River of Crystals.mp3
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\12 Follow Me.mp3
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\Frank Sinatra - One For My Baby (Live At Royal Festival Hall  1962).mp3
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\Her OST - 06. Some Other Place.mp3
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\Her OST - 13. Dimensions.mp3
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\Her OST - Song On The Beach.mp3
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\Karen O - The Moon Song.mp3
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\Love Theme from Blade Runner [Music from Blade Runner].mp3
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\M05 II - Ghost City.mp3
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\M07 Nightstalker.mp3
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\M08 Floating Museum.mp3
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\Memories of Green [Music from Blade Runner].mp3
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\historyAndReadMe\ReadMe.txt
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Resources\Scarlett Johansson  Joaquin Phoenix - The Moon Song (Her - OST).mp3
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Chat Bot Rechael v.1.exe.manifest
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Chat Bot Rechael v.1.application
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Chat Bot Rechael v.1.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Chat Bot Rechael v.1.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\bin\x86\Debug\Chat Bot Rechael v.1.xml
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\ChatBotRechealDemo.frmAbout.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\ChatBotRechealDemo.frmInstructions.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\ChatBotRechealDemo.frmMain.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\ChatBotRechealDemo.frmOpening.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\ChatBotRechealDemo.frmVideo.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\ChatBotRechealDemo.Resources.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\Chat Bot Rechael v.1.exe.manifest
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\ChatBotRechealDemo\ChatBotRechealDemo\obj\x86\Debug\Chat Bot Rechael v.1.application
